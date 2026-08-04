@@ -22,4 +22,10 @@
 body {
      display: flex
      flex-diretion: column;
+     min-width: 100vh;
+}
+
+main {
+    flex: 1;
+    
 }
