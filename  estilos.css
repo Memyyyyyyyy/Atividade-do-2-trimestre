@@ -21,8 +21,8 @@
 }
 
 body {
-     display: flex
-     flex-diretion: column;
+     display: flex;
+     flex-direction: column;
      min-width: 100vh;
 }
 
