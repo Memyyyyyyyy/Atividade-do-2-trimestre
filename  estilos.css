@@ -24,6 +24,7 @@ body {
      display: flex;
      flex-direction: column;
      min-width: 100vh;
+     background-color: aliceblue;
 }
 
 main {
@@ -32,6 +33,7 @@ main {
 }
 .Cabecalho-link {
     color: aqua;
+    text-decoration: none;
 }
 h1  {
     color: #78cce0;
