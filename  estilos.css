@@ -68,3 +68,7 @@ footer {
     transform: rotateY(180'angle');
 }
 
+section{
+    display: flex;
+    gap: 16px;
+}
